@@ -1,0 +1,23 @@
+{
+  "name": "carbine",
+  "version": "0.1.0",
+  "description": "Caching HTTP Requests",
+  "main": "./lib/carbine",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultraflynn/carbine.git"
+  },
+  "keywords": [
+    "http",
+    "caching"
+  ],
+  "author": "Matt Biggin",
+  "license": "BSD",
+  "dependencies": {
+    "winston": "~0.6.2",
+    "underscore": "~1.4.0"
+  }
+}
